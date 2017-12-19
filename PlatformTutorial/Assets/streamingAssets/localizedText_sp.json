@@ -1,0 +1,32 @@
+{"items":[{"key":"genre_title","value":"GÉNERO"}
+        ,{"key":"equip_name_title","value":"NOMBRE DEL EQUIPO"}
+		,{"key":"live_title","value":"VIDA"}
+		,{"key":"loading_title","value":"CARGANDO..."}
+		,{"key":"level_title","value":"NIVEL"}
+		,{"key":"select_title","value":"SELECCIONAR"}
+		,{"key":"go_title","value":"¡VAYA!"}
+		,{"key":"level_describe1","value":"RECOGE TODAS LAS ESTRELLAS A TIEMPO."}
+		,{"key":"level_describe2","value":"ENCUENTRA LAS GEMAS A TIEMPO."}
+		,{"key":"level_describe3","value":"COGE EN TOTAL 15 MATERIA NEGRA A TIEMPO."}
+		,{"key":"level_describe4","value":"ENCUENTRA LA SALIDA DEL NIVEL A TIEMPO."}
+		,{"key":"level_describe5","value":"RESUELVE EL JUEGO DE SIMON EN EL ORDEN CORRECTO A TIEMPO."}
+		,{"key":"level_describe6","value":"RECOGE TODOS LOS HUEVOS EN EL NIVEL A TIEMPO."}
+		,{"key":"level_describe7","value":"MATA AL MONSTRUO CON UNA HERRAMIENTA EN EL NIVEL EN EL TIEMPO."}
+		,{"key":"level_describe8","value":"ENCIENDE TODAS LAS ANTORCHAS EN EL NIVEL EN EL TIEMPO."}
+		,{"key":"level_describe9","value":"LEVANTA TODAS LAS BANDERAS EN EL NIVEL A TIEMPO."}
+		,{"key":"configuration_title","value":"CONFIGURACIÓN"}
+		,{"key":"language_title","value":"IDIOMAS"}
+		,{"key":"pause_title","value":"PAUSA"}
+		,{"key":"giveup_title","value":"RENDIRSE"}
+		,{"key":"return_title","value":"VOLVER"}
+		,{"key":"lose_title","value":"TÚ PIERDES"}
+		,{"key":"backtomenu_title","value":"REGRESAR AL MENU"}
+		,{"key":"tryagain_title","value":"INTÉNTALO DE NUEVO"}
+		,{"key":"outlives_title","value":"SIN VIDA"}
+		,{"key":"restore_title","value":"RESTAURAR"}
+		,{"key":"shop_title","value":"TIENDA"}
+		,{"key":"free_title","value":"GRATIS"}
+		,{"key":"buy_title","value":"COMPRAR"}
+		,{"key":"reward_title","value":"RECOMPENSA"}
+		,{"key":"time_left_title","value":"TIEMPO RESTANTE"}
+		,{"key":"victory_title","value":"VICTORIA"}]}

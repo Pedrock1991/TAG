@@ -1,0 +1,32 @@
+{"items":[{"key":"genre_title","value":"GENERE"}
+        ,{"key":"equip_name_title","value":"NOME DEL TEAM"}
+		,{"key":"live_title","value":"VITE"}
+		,{"key":"loading_title","value":"CARICAMENTO..."}
+		,{"key":"level_title","value":"LIVELO"}
+		,{"key":"select_title","value":"SELEZIONARE"}
+		,{"key":"go_title","value":"GO!"}
+		,{"key":"level_describe1","value":"RACCOGLI TUTTE LE STELLE NEL TEMPO."}
+		,{"key":"level_describe2","value":"TROVA LE GEMME NEL TEMPO."}
+		,{"key":"level_describe3","value":"AFFERRA IN TOTALE 15 MATERIA NERA NEL TEMPO."}
+		,{"key":"level_describe4","value":"TROVA L'USCITA DEL LIVELLO NEL TEMPO."}
+		,{"key":"level_describe5","value":"RISOLVI IL GIOCO DI SIMON NEL GIUSTO ORDINE NEL TEMPO."}
+		,{"key":"level_describe6","value":"RACCOGLI TUTTE LE UOVA A LIVELLO NEL TEMPO."}
+		,{"key":"level_describe7","value":"UCCIDI IL MOSTRO USANDO UNO STRUMENTO A LIVELLO IN TEMPO."}
+		,{"key":"level_describe8","value":"ACCENDERE TUTTE LE TORCE AL LIVELLO NEL TEMPO."}
+		,{"key":"level_describe9","value":"TIRATE TUTTE LE BANDIERE SUL LIVELLO NEL TEMPO."}
+		,{"key":"configuration_title","value":"CONFIGURAZIONE"}
+		,{"key":"language_title","value":"LINGUA"}
+		,{"key":"pause_title","value":"IN PAUSA"}
+		,{"key":"giveup_title","value":"ABBANDONARE"}
+		,{"key":"return_title","value":"RITORNO"}
+		,{"key":"lose_title","value":"HAI PERSO"}
+		,{"key":"backtomenu_title","value":"TORNA AL MENU"}
+		,{"key":"tryagain_title","value":"RIPROVA"}
+		,{"key":"outlives_title","value":"FUORI VITE"}
+		,{"key":"restore_title","value":"RISTABILIRE"}
+		,{"key":"shop_title","value":"NEGOZIO"}
+		,{"key":"free_title","value":"GRATUITO"}
+		,{"key":"buy_title","value":"ACQUISTARE"}
+		,{"key":"reward_title","value":"RICOMPENSA"}
+		,{"key":"time_left_title","value":"TEMPO RIMASTO"}
+		,{"key":"victory_title","value":"VITTORIA"}]}

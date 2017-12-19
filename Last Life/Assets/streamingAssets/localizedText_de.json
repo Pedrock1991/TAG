@@ -1,0 +1,12 @@
+{"items":[{"key":"new_game_button","value":"Neues Spiel"}
+        ,{"key":"continue_button","value":"Fortsetzen"}
+        ,{"key":"options_button","value":"Optionen"}
+        ,{"key":"inventory_button","value":"Vorräte"}
+        ,{"key":"survivors_list_button","value":"Überlebende Liste"}
+        ,{"key":"production_management_button","value":"Produktionsleitung"}
+        ,{"key":"store_button","value":"Geschäft"}
+        ,{"key":"help_button","value":"Hilfe"}
+        ,{"key":"close_button","value":"SCHLIESSEN"}
+        ,{"key":"messages_button","value":"Meldungen"}
+        ,{"key":"friends_list_button","value":"Freundesliste"}
+        ,{"key":"list_of_locations_button","value":"Liste der Standorte"}]}

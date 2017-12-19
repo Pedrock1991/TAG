@@ -1,0 +1,32 @@
+{"items":[{"key":"genre_title","value":"GÊNERO"}
+        ,{"key":"equip_name_title","value":"NOME DA EQUIPE"}
+		,{"key":"live_title","value":"VIDAS"}
+		,{"key":"loading_title","value":"CARREGANDO..."}
+		,{"key":"level_title","value":"NÍVEL"}
+		,{"key":"select_title","value":"SELECIONAR"}
+		,{"key":"go_title","value":"VAI!"}
+		,{"key":"level_describe1","value":"COLETE TODAS AS ESTRELAS NO TEMPO."}
+		,{"key":"level_describe2","value":"ENCONTRE AS GEMAS NO TEMPO."}
+		,{"key":"level_describe3","value":"PEGUE NO TOTAL 15 MATÉRIAS NEGRAS A TEMPO."}
+		,{"key":"level_describe4","value":"ENCONTRE A SAÍDA DO NÍVEL NO TEMPO."}
+		,{"key":"level_describe5","value":"RESOLVA O JOGO DE SIMON NA ORDEM CERTA NO TEMPO."}
+		,{"key":"level_describe6","value":"RECOLHER TODOS OS OVOS NO NÍVEL NO TEMPO."}
+		,{"key":"level_describe7","value":"MATE O MONSTRO USANDO UMA FERRAMENTA NO NÍVEL NO TEMPO."}
+		,{"key":"level_describe8","value":"ACENDA TODAS AS TOCHAS AO NÍVEL DO TEMPO."}
+		,{"key":"level_describe9","value":"PUXE TODAS AS BANDEIRAS NO NÍVEL NO TEMPO."}
+		,{"key":"configuration_title","value":"CONFIGURAÇÃO"}
+		,{"key":"language_title","value":"IDIOMA"}
+		,{"key":"pause_title","value":"PAUSADO"}
+		,{"key":"giveup_title","value":"DESISTIR"}
+		,{"key":"return_title","value":"RETORNAR"}
+		,{"key":"lose_title","value":"VOCÊ PERDEU"}
+		,{"key":"backtomenu_title","value":"VOLTAR PARA MENU"}
+		,{"key":"tryagain_title","value":"TENTAR DE NOVO"}
+		,{"key":"outlives_title","value":"SEM VIDAS"}
+		,{"key":"restore_title","value":"RESTAURAR"}
+		,{"key":"shop_title","value":"LOJA"}
+		,{"key":"free_title","value":"GRÁTIS"}
+		,{"key":"buy_title","value":"COMPRAR"}
+		,{"key":"reward_title","value":"RECOMPENSA"}
+		,{"key":"time_left_title","value":"TEMPO RESTANTE"}
+		,{"key":"victory_title","value":"VITÓRIA"}]}

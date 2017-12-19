@@ -1,0 +1,32 @@
+{"items":[{"key":"genre_title","value":"GATTUNG"}
+        ,{"key":"equip_name_title","value":"TEAMNAME"}
+		,{"key":"live_title","value":"LEBT"}
+		,{"key":"loading_title","value":"LADEN..."}
+		,{"key":"level_title","value":"EBENE"}
+		,{"key":"select_title","value":"AUSWÄHLEN"}
+		,{"key":"go_title","value":"LOS!"}
+		,{"key":"level_describe1","value":"SAMMLE ALLE STERNE RECHTZEITIG."}
+		,{"key":"level_describe2","value":"FINDE DIE EDELSTEINE RECHTZEITIG."}
+		,{"key":"level_describe3","value":"GREIFEN SIE INSGESAMT 15 SCHWARZE MATERIE RECHTZEITIG AUF."}
+		,{"key":"level_describe4","value":"FINDE DEN AUSGANG DES LEVELS RECHTZEITIG."}
+		,{"key":"level_describe5","value":"LÖSE DAS SPIEL EINES SIMONS RECHTZEITIG IN DER RICHTIGEN REIHENFOLGE."}
+		,{"key":"level_describe6","value":"SAMMLE ALLE EIER RECHTZEITIG AUF DEM LEVEL."}
+		,{"key":"level_describe7","value":"TÖTE DAS MONSTER MIT EINEM WERKZEUG AUF DER HÖHE DER ZEIT."}
+		,{"key":"level_describe8","value":"ZÜNDE ALLE FACKELN AUF DER HÖHE DER ZEIT AN."}
+		,{"key":"level_describe9","value":"ZIEHE ALLE FLAGGEN RECHTZEITIG AUF LEVEL."}
+		,{"key":"configuration_title","value":"KONFIGURATION"}
+		,{"key":"language_title","value":"SPRACHE"}
+		,{"key":"pause_title","value":"PAUSIERT"}
+		,{"key":"giveup_title","value":"GIB AUF"}
+		,{"key":"return_title","value":"RÜCKKEHR"}
+		,{"key":"lose_title","value":"SIE VELOREN"}
+		,{"key":"backtomenu_title","value":"ZURÜCK ZUM MENÜ"}
+		,{"key":"tryagain_title","value":"VERSUCH ES NOCH EINMAL"}
+		,{"key":"outlives_title","value":"LEBLOS"}
+		,{"key":"restore_title","value":"WIEDERHERSTELLEN"}
+		,{"key":"shop_title","value":"GESCHÄFT"}
+		,{"key":"free_title","value":"GRATIS"}
+		,{"key":"buy_title","value":"KAUFEN"}
+		,{"key":"reward_title","value":"BELOHNUNG"}
+		,{"key":"time_left_title","value":"ÜBRIGE ZEIT"}
+		,{"key":"victory_title","value":"SIEG"}]}

@@ -1,0 +1,12 @@
+{"items":[{"key":"new_game_button","value":"New Game"}
+        ,{"key":"continue_button","value":"Continue"}
+        ,{"key":"options_button","value":"Options"}
+        ,{"key":"inventory_button","value":"Inventory"}
+        ,{"key":"survivors_list_button","value":"Survivors List"}
+        ,{"key":"production_management_button","value":"Production Management"}
+        ,{"key":"store_button","value":"Store"}
+        ,{"key":"help_button","value":"Help"}
+        ,{"key":"close_button","value":"CLOSE"}
+        ,{"key":"messages_button","value":"Messages"}
+        ,{"key":"friends_list_button","value":"Friend’s List"}
+        ,{"key":"list_of_locations_button","value":"List of Locations"}]}

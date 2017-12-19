@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 3ac03ea2d0833b34bb1d93d812fef790
+timeCreated: 1505958907
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - blueDronePrefab: {fileID: 1577669021059010, guid: 01c930c2a8cf8fe40909aa1e10a37f33,
+      type: 2}
+  - greenDronePrefab: {fileID: 1454507316925838, guid: e7e0075edf2cad24ebe2e94290ad4772,
+      type: 2}
+  - purpleDronePrefab: {fileID: 1200012818186424, guid: 9852847c40b9e4a4095f1d5f25a0e214,
+      type: 2}
+  - redDronePrefab: {fileID: 1613909207030116, guid: a042970fc8b273f48be5a158759eb61f,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

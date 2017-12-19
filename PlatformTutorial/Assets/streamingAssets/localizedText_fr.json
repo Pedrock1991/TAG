@@ -1,0 +1,32 @@
+{"items":[{"key":"genre_title","value":"GENRE"}
+        ,{"key":"equip_name_title","value":"NOM DE L'ÉQUIPE"}
+		,{"key":"live_title","value":"VIES"}
+		,{"key":"loading_title","value":"LOADING..."}
+		,{"key":"level_title","value":"NIVEAU"}
+		,{"key":"select_title","value":"SÉLECTIONNER"}
+		,{"key":"go_title","value":"GOSSS!"}
+		,{"key":"level_describe1","value":"RECUEILLIR TOUTES LES ÉTOILES DANS LE TEMPS."}
+		,{"key":"level_describe2","value":"TROUVEZ LES GEMMES À TEMPS."}
+		,{"key":"level_describe3","value":"PRENEZ AU TOTAL 15 MATIÈRES NOIRES DANS LE TEMPS."}
+		,{"key":"level_describe4","value":"TROUVEZ LA SORTIE DU NIVEAU DANS LE TEMPS."}
+		,{"key":"level_describe5","value":"RÉSOUDRE UN JEU SIMON DANS LE BON ORDRE DANS LE TEMPS."}
+		,{"key":"level_describe6","value":"RECUEILLIR TOUS LES OEUFS SUR LE NIVEAU DANS LE TEMPS."}
+		,{"key":"level_describe7","value":"TUER LE MONSTRE EN UTILISANT UN OUTIL SUR LE NIVEAU DANS LE TEMPS."}
+		,{"key":"level_describe8","value":"ALLUME TOUTES LES TORCHES AU NIVEAU TEMPOREL."}
+		,{"key":"level_describe9","value":"TIREZ TOUS LES DRAPEAUX SUR LE NIVEAU DANS LE TEMPS."}
+		,{"key":"configuration_title","value":"CONFIGURATION"}
+		,{"key":"language_title","value":"LANGUE"}
+		,{"key":"pause_title","value":"EN PAUSE"}
+		,{"key":"giveup_title","value":"ABANDONNER"}
+		,{"key":"return_title","value":"REVENIR"}
+		,{"key":"lose_title","value":"TU AS PERDU"}
+		,{"key":"backtomenu_title","value":"RETOUR AU MENU"}
+		,{"key":"tryagain_title","value":"RÉESSAYER"}
+		,{"key":"outlives_title","value":"DES VIES"}
+		,{"key":"restore_title","value":"RESTAURER"}
+		,{"key":"shop_title","value":"BOUTIQUE"}
+		,{"key":"free_title","value":"GRATUIT"}
+		,{"key":"buy_title","value":"ACHETER"}
+		,{"key":"reward_title","value":"RÉCOMPENSE"}
+		,{"key":"time_left_title","value":"TEMPS RESTANT"}
+		,{"key":"victory_title","value":"LA VICTOIRE"}]}

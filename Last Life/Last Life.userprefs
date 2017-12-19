@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Mapbox\Unity\Map\MapVisualizer.cs">
+    <Files>
+      <File FileName="Assets\Last Life\Scripts\MonoBehaviour\LevelManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Last Life\Scripts\MonoBehaviour\Localization\LocalizedText.cs" Line="1" Column="1" />
+      <File FileName="Assets\Last Life\Scripts\MonoBehaviour\StartupLocalizationManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Mapbox\Unity\MeshGeneration\LayerVisualizers\VectorLayerVisualizer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Mapbox\Unity\Map\MapVisualizer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

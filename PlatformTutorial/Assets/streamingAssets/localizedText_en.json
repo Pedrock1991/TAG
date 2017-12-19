@@ -1,0 +1,32 @@
+{"items":[{"key":"genre_title","value":"GENRE"}
+        ,{"key":"equip_name_title","value":"TEAM NAME"}
+		,{"key":"live_title","value":"LIVES"}
+		,{"key":"loading_title","value":"LOADING..."}
+		,{"key":"level_title","value":"LEVEL"}
+		,{"key":"select_title","value":"SELECT"}
+		,{"key":"go_title","value":"GO!"}
+		,{"key":"level_describe1","value":"COLLECT ALL STARS IN TIME."}
+		,{"key":"level_describe2","value":"FIND THE GEMS IN TIME."}
+		,{"key":"level_describe3","value":"GRAB IN TOTAL 15 BLACK MATTER IN TIME."}
+		,{"key":"level_describe4","value":"FIND THE EXIT OF THE LEVEL IN TIME."}
+		,{"key":"level_describe5","value":"SOLVE A SIMON’S GAME IN THE RIGHT ORDER IN TIME."}
+		,{"key":"level_describe6","value":"COLLECT ALL EGGS ON LEVEL IN TIME."}
+		,{"key":"level_describe7","value":"KILL THE MONSTER USING A TOOL ON LEVEL IN TIME."}
+		,{"key":"level_describe8","value":"LIGHT ALL THE TORCHES AT THE LEVEL IN TIME."}
+		,{"key":"level_describe9","value":"PULL UP ALL FLAGS ON LEVEL IN TIME."}
+		,{"key":"configuration_title","value":"CONFIGURATION"}
+		,{"key":"language_title","value":"LANGUAGE"}
+		,{"key":"pause_title","value":"PAUSED"}
+		,{"key":"giveup_title","value":"GIVE UP"}
+		,{"key":"return_title","value":"RETURN"}
+		,{"key":"lose_title","value":"YOU LOSE"}
+		,{"key":"backtomenu_title","value":"BACK TO MENU"}
+		,{"key":"tryagain_title","value":"TRY AGAIN"}
+		,{"key":"outlives_title","value":"OUT LIVES"}
+		,{"key":"restore_title","value":"RESTORE"}
+		,{"key":"shop_title","value":"SHOP"}
+		,{"key":"free_title","value":"FREE"}
+		,{"key":"buy_title","value":"BUY"}
+		,{"key":"reward_title","value":"REWARD"}
+		,{"key":"time_left_title","value":"TIME LEFT"}
+		,{"key":"victory_title","value":"VICTORY"}]}
